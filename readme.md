@@ -16,9 +16,8 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
-1. Partner 1: [dss24](https://github.com/dss24) Daniel Simoes
+1. Partner 1: [dss24](https://github.com/dss24): Daniel Simoes
 2. Partner 2: [nYalla6](https://github.com/nYalla6): Namitha Yalla
-3. Partner 3: Optional
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
 you are updating just the [readme.md](readme.md) file, you won't see any changes on localhost. But maybe you can
